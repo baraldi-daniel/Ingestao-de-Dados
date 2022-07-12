@@ -1,0 +1,5 @@
+create table apidadoscoletados (CNPJ VARCHAR(255),CodigoServico VARCHAR(255),Servico VARCHAR(255),Unidade VARCHAR(255),DataVigencia DATE,ValorMaximo INT,TipoValor VARCHAR(255),Periodicidade VARCHAR(255));
+
+create table csv (Ano INT,Trimestre VARCHAR(255),Categoria VARCHAR(255),Tipo VARCHAR(255),CNPJ VARCHAR(255),InstituicaoFinanceira VARCHAR(255),Indice VARCHAR(255),QuantidadeReclamacoesReguladasProcedentes INT,QuantidadeReclamacoesReguladasOutras INT,QuantidadeReclamacoesNaoReguladas INT,QuantidadeTotalReclamacoes INT,QuantidadeTotalClientesCCSSCR INT,QuantidadeClientesCCS VARCHAR(255),QuantidadeClientesSCR INT);
+
+create table csvapidadoscoletados (CNPJ VARCHAR(255),CodigoServico VARCHAR(255),Servico VARCHAR(255),Unidade VARCHAR(255),DataVigencia DATE,ValorMaximo INT,TipoValor VARCHAR(255),Periodicidade VARCHAR(255),QuantidadeReclamacoesReguladasProcedentes VARCHAR(255));

@@ -1,0 +1,21 @@
+
+CodigoServico,Servico,Unidade,DataVigencia,ValorMaximo,TipoValor,Periodicidade
+1001,Exportação: Edição de Contrato de Câmbio,Por Operação,2021-06-01,0,Real,Por evento
+1002,Exportação: Edição de Contrato de Câmbio via Internet,Por Operação,2021-06-01,0,Real,Por evento
+1003,Exportação: Liquidação com Ordem de Pagamento,Por Operação,2021-06-01,0,Real,Por evento
+1004,Exportação: Conferência de Documentos,Por Operação,2021-06-01,0,Real,Por evento
+1005,Exportação: Câmbio Simplicado (todas as despesas do cliente no Banco),Por Operação,2021-06-01,0,Real,Por evento
+1006,Importação: Edição de Contrato de Câmbio,Por Operação,2021-06-01,0,Real,Por evento
+1007,Importação: Emissão de Ordem de Pagamento,Por Operação,2021-06-01,0,Real,Por evento
+1008,Importação: Demais Tarifas (Não incluem despesas no Exteior),Por Operação,2021-06-01,0,Real,Por evento
+1009,Importação: Câmbio Simplificado(Todas as despesas do cliente no Banco),Por Operação,2021-06-01,0,Real,Por evento
+1010,Financeiro -Ingresso de Recursos: Edição de Contrato de Câmbio,Por Operação,2021-06-01,0,Real,Por evento
+1011,Financeiro-Ingresso de Recursos:Edição de Cont. de Câmbio Via Internet,Por Operação,2021-06-01,0,Real,Por evento
+1012,Financeiro -Ingresso de Recursos: Liquidação com Ordem de pagamento,Por Operação,2021-06-01,0,Real,Por evento
+1013,Financeiro - Ingresso de Recursos: Confecção de ROF,Por Operação,2021-06-01,0,Real,Por evento
+1014,Financeiro - Ingresso de Recursos : Confecção de esquema de ROF,Por Operação,2021-06-01,0,Real,Por evento
+1015,Financeiro - Ingresso de Recursos: Confecção de Cadastro no Cademp,Por Operação,2021-06-01,0,Real,Por evento
+1016,Financeiro -Remessa de Recursos: Edição de Contrato de Câmbio,Por Operação,2021-06-03,0,Real,Por evento
+1017,Financeiro-Remessa de Recursos: Edição de Cont. de Câmbio Via Internet,Por Operação,2021-06-03,0,Real,Por evento
+1018,Financeiro - Remessa de Recursos: Emissão de Ordem de Pagamento,Por Operação,2021-06-03,0,Real,Por evento
+1019,Financeiro - Remessa de Recursos: Alteração de ROF,Por Operação,2021-06-03,0,Real,Por evento

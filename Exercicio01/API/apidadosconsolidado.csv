@@ -1,0 +1,612 @@
+36321990;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-06-10;0;Real;Por evento
+36321990;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2021-06-10;0;Real;Por evento
+36321990;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2021-06-10;0;Real;Por evento
+36321990;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2021-06-10;0;Real;Por evento
+36321990;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2021-06-10;0;Real;Por evento
+36321990;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-06-10;0;Real;Por evento
+36321990;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2021-06-10;0;Real;Por evento
+36321990;1312;Transferência por meio de DOC - DOC internet;por evento;2021-06-10;0;Real;Por evento
+36321990;1313;Transferência por meio de TED - TED pessoal;por evento;2021-06-10;0;Real;Por evento
+36321990;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-06-10;0;Real;Por evento
+36321990;1315;Transferência por meio de TED - TED internet;por evento;2021-06-10;0;Real;Por evento
+27214112;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-03-29;50000;Real;Por evento
+54403563;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-04-30;15;Real;Por evento
+54403563;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2008-04-30;10;Real;Por evento
+54403563;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2008-04-30;6;Real;Por evento
+54403563;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2008-04-30;20;Real;Por evento
+54403563;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2008-04-30;3;Real;Por evento
+54403563;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;11;Real;Por evento
+54403563;1208;CHEQUE - Cheque Visado;por cheque;2008-04-30;11;Real;Por evento
+54403563;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-04-30;2;Real;Por evento
+54403563;1210;Saque de conta de depósitos à vista e de poupança - SAQUE Terminal;Por operação;2008-04-30;6;Real;Por evento
+54403563;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2008-04-30;6;Real;Por evento
+54403563;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2008-04-30;10;Real;Por evento
+54403563;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2008-04-30;10;Real;Por evento
+54403563;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2008-04-30;10;Real;Por evento
+54403563;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-04-30;0;Real;Por evento
+54403563;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2008-04-30;0;Real;Por evento
+54403563;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2011-03-31;10;Real;Por evento
+54403563;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2011-03-31;10;Real;Por evento
+54403563;1313;Transferência por meio de TED - TED pessoal;por evento;2011-03-31;10;Real;Por evento
+54403563;1314;Transferência por meio de TED - TED eletrônico;por evento;2011-03-31;10;Real;Por evento
+54403563;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2008-04-30;200;Real;Por evento
+02992446;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2017-11-20;1300;Real;Por evento
+02992446;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2009-11-23;0;Real;Por evento
+08357240;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2011-05-12;0;Real;Por evento
+08357240;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2012-04-03;0;Real;Por evento
+08357240;1605;Avaliação emergencial de crédito;por evento;2022-05-16;0;Real;Por evento
+04902979;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-04-30;54;Real;Por evento
+04902979;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2008-04-30;10;Real;Por evento
+04902979;1202;CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança;Por cliente;2008-04-30;10;Real;Por evento
+04902979;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2019-04-18;53;Real;Por evento
+04902979;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2019-04-18;13;Real;Por evento
+04902979;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2019-04-18;2;Real;Por evento
+04902979;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;50;Real;Por evento
+04902979;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-04-30;4;Real;Por evento
+04902979;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2019-04-18;6;Real;Por evento
+04902979;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2019-04-18;4;Real;Por evento
+04902979;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2019-04-18;6;Real;Por evento
+04902979;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2012-08-01;3;Real;Por evento
+04902979;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2019-04-18;19;Real;Por evento
+04902979;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2019-04-18;3;Real;Por evento
+04902979;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2019-04-18;2;Real;Por evento
+04902979;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2019-04-18;18;Real;Por evento
+04902979;1313;Transferência por meio de TED - TED pessoal;por evento;2019-04-18;19;Real;Por evento
+04902979;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2019-04-18;60;Real;Por evento
+04902979;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2010-10-01;15;Real;Por evento
+04902979;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2015-12-01;18;Real;Por evento
+04902979;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2018-03-08;25;Real;Por evento
+04902979;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2018-03-12;37;Real;Por evento
+04902979;1601;Anuidade - cartão básico nacional;a cada 365 dias;2019-04-18;120;Real;A cada 360 dias
+04902979;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2016-08-15;17;Real;Por evento
+04902979;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2019-04-18;10;Real;Por evento
+04902979;1605;Avaliação emergencial de crédito;por evento;2016-08-15;18;Real;Por evento
+04902979;1606;Anuidade - cartão básico internacional;a cada 365 dias;2016-08-15;170;Real;A cada 360 dias
+04902979;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2016-08-15;20;Real;Por evento
+04902979;1701;Venda de moeda estrangeira - espécie;Por operação;2017-08-28;40;Real;Por evento
+04902979;1702;Venda de moeda estrangeira - cheque de viagem;Por operação;2012-01-02;0;Real;Por evento
+04902979;1705;Compra de moeda estrangeira - espécie;Por operação;2017-08-28;40;Real;Por evento
+04902979;1706;Compra de moeda estrangeira - cheque de viagem;Por operação;2012-01-02;0;Real;Por evento
+10690848;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2017-06-02;50;Real;Por evento
+10690848;1206;CHEQUE - Cheque Administrativo;Por Cheque;2009-11-03;25;Real;Por evento
+10690848;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2009-11-03;4;Real;Por evento
+10690848;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2009-11-03;4;Real;Por evento
+10690848;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2009-11-03;4;Real;Por evento
+10690848;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2012-07-03;4;Real;Por evento
+10690848;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2012-07-03;4;Real;Por evento
+10690848;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2012-07-03;4;Real;Por evento
+10690848;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2009-07-16;5;Real;Por evento
+10690848;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2009-11-03;5;Real;Por evento
+10690848;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2009-11-03;30;Real;Por evento
+10690848;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2009-11-03;30;Real;Por evento
+10690848;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2015-01-16;10;Real;Por evento
+10690848;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2015-01-16;17;Real;Por evento
+10690848;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2015-01-16;24;Real;Por evento
+10690848;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2015-01-16;30;Real;Por evento
+05040481;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2011-09-08;1500;Real;Por evento
+05040481;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2009-10-02;0;Real;Por evento
+92874270;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-11-01;2000;Real;Por evento
+92874270;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2021-11-01;20;Real;Por evento
+92874270;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2017-08-26;50;Real;Por evento
+92874270;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2021-11-01;15;Real;Por evento
+92874270;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;10;Real;Por evento
+92874270;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2021-11-01;15;Real;Por evento
+92874270;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2021-11-01;15;Real;Por evento
+92874270;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2021-11-01;15;Real;Por evento
+92874270;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2017-08-26;23;Real;Por evento
+92874270;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-11-01;15;Real;Por evento
+92874270;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2021-11-01;0;Real;Por evento
+92874270;1312;Transferência por meio de DOC - DOC internet;por evento;2021-11-01;0;Real;Por evento
+92874270;1313;Transferência por meio de TED - TED pessoal;por evento;2021-11-01;15;Real;Por evento
+92874270;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-11-01;15;Real;Por evento
+92874270;1315;Transferência por meio de TED - TED internet;por evento;2021-11-01;15;Real;Por evento
+92874270;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2009-11-27;0;Real;Por evento
+92874270;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2017-08-26;45;Real;Por evento
+92874270;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2021-11-01;20;Real;Por evento
+92874270;1606;Anuidade - cartão básico internacional;a cada 365 dias;2021-11-01;0;Real;A cada 0 dias
+92874270;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2021-11-01;25;Real;Por evento
+27098060;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2018-12-05;1500;Real;Por evento
+27098060;1315;Transferência por meio de TED - TED internet;por evento;2021-05-05;5;Real;Por evento
+27098060;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2022-07-05;0;Real;Por evento
+13009717;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2017-09-14;40;Real;Por evento
+13009717;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2022-03-01;10;Real;Por evento
+13009717;1202;CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança;Por cliente;2022-03-01;10;Real;Por evento
+13009717;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2017-09-14;60;Real;Por evento
+13009717;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2020-09-01;15;Real;Por evento
+13009717;1206;CHEQUE - Cheque Administrativo;Por Cheque;2019-03-01;35;Real;Por evento
+13009717;1212;DEPÓSITO - Depósito Identificado;Por operação;2020-03-01;6;Real;Por evento
+13009717;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2020-09-01;20;Real;Por evento
+13009717;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2020-09-01;13;Real;Por evento
+13009717;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2020-09-01;13;Real;Por evento
+13009717;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2017-09-14;35;Real;Por evento
+13009717;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2020-03-01;20;Real;Por evento
+13009717;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2020-03-01;13;Real;Por evento
+13009717;1312;Transferência por meio de DOC - DOC internet;por evento;2020-09-01;13;Real;Por evento
+13009717;1313;Transferência por meio de TED - TED pessoal;por evento;2020-03-01;20;Real;Por evento
+13009717;1314;Transferência por meio de TED - TED eletrônico;por evento;2020-03-01;13;Real;Por evento
+13009717;1315;Transferência por meio de TED - TED internet;por evento;2020-09-01;13;Real;Por evento
+13009717;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2020-09-01;100;Real;Por evento
+13009717;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2022-03-01;33;Real;Por evento
+13009717;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2022-03-01;48;Real;Por evento
+13009717;1601;Anuidade - cartão básico nacional;a cada 365 dias;2015-01-30;0;Real;A cada 0 dias
+13009717;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2022-03-01;10;Real;Por evento
+13009717;1605;Avaliação emergencial de crédito;por evento;2020-03-01;17;Real;Por evento
+13009717;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2020-03-01;24;Real;Por evento
+04913711;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-12-17;40;Real;Por evento
+04913711;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2020-12-30;20;Real;Por evento
+04913711;1202;CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança;Por cliente;2020-12-30;20;Real;Por evento
+04913711;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2021-12-17;60;Real;Por evento
+04913711;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2021-12-17;20;Real;Por evento
+04913711;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2021-12-17;3;Real;Por evento
+04913711;1206;CHEQUE - Cheque Administrativo;Por Cheque;2021-12-17;50;Real;Por evento
+04913711;1210;Saque de conta de depósitos à vista e de poupança - SAQUE Terminal;Por operação;2021-12-17;3;Real;Por evento
+04913711;1212;DEPÓSITO - Depósito Identificado;Por operação;2021-12-17;8;Real;Por evento
+04913711;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2021-12-17;4;Real;Por evento
+04913711;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2021-12-17;4;Real;Por evento
+04913711;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2020-12-30;5;Real;Por evento
+04913711;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2021-12-17;2;Real;Por evento
+04913711;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-12-17;22;Real;Por evento
+04913711;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2021-12-17;12;Real;Por evento
+04913711;1312;Transferência por meio de DOC - DOC internet;por evento;2021-12-17;12;Real;Por evento
+04913711;1313;Transferência por meio de TED - TED pessoal;por evento;2021-12-17;22;Real;Por evento
+04913711;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-12-17;12;Real;Por evento
+04913711;1315;Transferência por meio de TED - TED internet;por evento;2021-12-17;12;Real;Por evento
+04913711;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2021-12-17;80;Real;Por evento
+04913711;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2021-12-17;16;Real;Por evento
+04913711;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2021-12-17;25;Real;Por evento
+04913711;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2021-12-17;33;Real;Por evento
+04913711;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2021-12-17;46;Real;Por evento
+04913711;1601;Anuidade - cartão básico nacional;a cada 365 dias;2020-12-30;55;Real;A cada 365 dias
+04913711;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2021-01-14;20;Real;Por evento
+04913711;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2021-01-14;14;Real;Por evento
+04913711;1605;Avaliação emergencial de crédito;por evento;2021-01-14;19;Real;Por evento
+04913711;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2021-01-14;20;Real;Por evento
+04913711;1701;Venda de moeda estrangeira - espécie;Por operação;2018-02-01;50;Real;Por evento
+04913711;1705;Compra de moeda estrangeira - espécie;Por operação;2018-02-01;50;Real;Por evento
+07237373;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2019-07-08;70;Real;Por evento
+07237373;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2019-07-08;13;Real;Por evento
+07237373;1202;CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança;Por cliente;2019-07-08;13;Real;Por evento
+07237373;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2019-07-08;15;Real;Por evento
+07237373;1206;CHEQUE - Cheque Administrativo;Por Cheque;2019-07-08;50;Real;Por evento
+07237373;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2019-07-08;4;Real;Por evento
+07237373;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2021-04-01;2;Real;Por evento
+07237373;1212;DEPÓSITO - Depósito Identificado;Por operação;2008-04-30;0;Real;Por evento
+07237373;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2019-07-08;10;Real;Por evento
+07237373;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2019-07-08;10;Real;Por evento
+07237373;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2008-04-30;3;Real;Por evento
+07237373;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2019-07-08;21;Real;Por evento
+07237373;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2019-07-08;11;Real;Por evento
+07237373;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2019-07-08;11;Real;Por evento
+07237373;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2021-04-01;6;Real;Por evento
+07237373;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2019-07-08;2;Real;Por evento
+07237373;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-04-01;21;Real;Por evento
+07237373;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2019-07-08;11;Real;Por evento
+07237373;1312;Transferência por meio de DOC - DOC internet;por evento;2019-07-08;11;Real;Por evento
+07237373;1313;Transferência por meio de TED - TED pessoal;por evento;2019-07-08;21;Real;Por evento
+07237373;1314;Transferência por meio de TED - TED eletrônico;por evento;2019-07-08;11;Real;Por evento
+07237373;1315;Transferência por meio de TED - TED internet;por evento;2019-07-08;11;Real;Por evento
+07237373;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2019-07-08;62;Real;Por evento
+07237373;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2021-04-01;15;Real;Por evento
+07237373;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2021-04-01;22;Real;Por evento
+07237373;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2021-04-01;29;Real;Por evento
+07237373;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2021-04-01;40;Real;Por evento
+07237373;1601;Anuidade - cartão básico nacional;a cada 365 dias;2019-07-22;70;Real;A cada 360 dias
+07237373;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2021-04-01;17;Real;Por evento
+07237373;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2019-07-22;11;Real;Por evento
+07237373;1605;Avaliação emergencial de crédito;por evento;2019-07-22;19;Real;Por evento
+07237373;1606;Anuidade - cartão básico internacional;a cada 365 dias;2019-07-22;430;Real;A cada 360 dias
+07237373;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2019-07-22;23;Real;Por evento
+58616418;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2009-12-16;1000;Real;Por evento
+58616418;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2008-05-29;0;Real;Por evento
+58616418;1202;CARTÃO - Fornec. de 2ª via de cartão com função mov. conta de poupança;Por cliente;2008-05-29;0;Real;Por evento
+58616418;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2008-05-29;50;Real;Por evento
+58616418;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2008-05-29;20;Real;Por evento
+58616418;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2009-10-16;0;Real;Por evento
+58616418;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-05-29;20;Real;Por evento
+58616418;1208;CHEQUE - Cheque Visado;por cheque;2008-05-29;0;Real;Por evento
+58616418;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-05-29;0;Real;Por evento
+58616418;1210;Saque de conta de depósitos à vista e de poupança - SAQUE Terminal;Por operação;2008-05-29;0;Real;Por evento
+58616418;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2008-05-29;0;Real;Por evento
+58616418;1212;DEPÓSITO - Depósito Identificado;Por operação;2008-05-29;0;Real;Por evento
+58616418;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2009-10-16;6;Real;Por evento
+58616418;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2008-05-29;0;Real;Por evento
+58616418;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2008-05-29;0;Real;Por evento
+58616418;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2009-10-16;0;Real;Por evento
+58616418;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2008-05-29;0;Real;Por evento
+58616418;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2008-05-29;0;Real;Por evento
+58616418;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2008-05-29;0;Real;Por evento
+58616418;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2008-05-29;0;Real;Por evento
+58616418;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2008-05-29;0;Real;Por evento
+58616418;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-05-29;0;Real;Por evento
+58616418;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2008-05-29;0;Real;Por evento
+58616418;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2008-05-29;0;Real;Por evento
+58616418;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2016-02-06;15;Real;Por evento
+58616418;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2016-02-06;15;Real;Por evento
+58616418;1312;Transferência por meio de DOC - DOC internet;por evento;2016-02-06;0;Real;Por evento
+58616418;1313;Transferência por meio de TED - TED pessoal;por evento;2016-02-06;15;Real;Por evento
+58616418;1314;Transferência por meio de TED - TED eletrônico;por evento;2016-02-06;15;Real;Por evento
+58616418;1315;Transferência por meio de TED - TED internet;por evento;2016-02-06;0;Real;Por evento
+58616418;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2011-03-31;0;Real;Por evento
+58616418;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2008-05-29;45;Real;Por evento
+58616418;1601;Anuidade - cartão básico nacional;a cada 365 dias;2012-12-22;130;Real;A cada 365 dias
+58616418;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2011-04-15;15;Real;Por evento
+58616418;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2012-05-11;10;Real;Por evento
+58616418;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2011-04-15;10;Real;Por evento
+58616418;1605;Avaliação emergencial de crédito;por evento;2011-04-15;10;Real;Por evento
+58616418;1606;Anuidade - cartão básico internacional;a cada 365 dias;2012-05-11;140;Real;A cada 365 dias
+58616418;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2012-05-11;15;Real;Por evento
+58616418;1701;Venda de moeda estrangeira - espécie;Por operação;2012-04-26;0;Real;Por evento
+58616418;1702;Venda de moeda estrangeira - cheque de viagem;Por operação;2012-04-26;0;Real;Por evento
+58616418;1703;Venda de moeda estrangeira - cartão pré-pago - emissão e carga;Por operação;2012-04-26;0;Real;Por evento
+58616418;1704;Venda de moeda estrangeira - cartão pré-pago - recarga;Por operação;2012-04-26;0;Real;Por evento
+58616418;1705;Compra de moeda estrangeira - espécie;Por operação;2012-04-26;0;Real;Por evento
+58616418;1706;Compra de moeda estrangeira - cheque de viagem;Por operação;2012-12-08;1050;Real;Por evento
+58616418;1707;Compra de moeda estrangeira - cartão pré-pago;Por operação;2012-04-26;0;Real;Por evento
+62237425;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2013-06-16;1500;Real;Por evento
+04866275;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2010-09-13;0;Real;Por evento
+04866275;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2012-06-19;0;Real;Por evento
+04866275;1314;Transferência por meio de TED - TED eletrônico;por evento;2012-06-19;0;Real;Por evento
+04866275;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2012-06-19;0;Real;Por evento
+04866275;1701;Venda de moeda estrangeira - espécie;Por operação;2012-06-19;0;Real;Por evento
+04866275;1702;Venda de moeda estrangeira - cheque de viagem;Por operação;2012-06-19;0;Real;Por evento
+04866275;1703;Venda de moeda estrangeira - cartão pré-pago - emissão e carga;Por operação;2012-06-19;0;Real;Por evento
+04866275;1704;Venda de moeda estrangeira - cartão pré-pago - recarga;Por operação;2012-06-19;0;Real;Por evento
+04866275;1706;Compra de moeda estrangeira - cheque de viagem;Por operação;2012-06-19;0;Real;Por evento
+91884981;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-04-30;0;Real;Por evento
+91884981;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2008-04-30;0;Real;Por evento
+91884981;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2008-04-30;0;Real;Por evento
+91884981;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2008-04-30;0;Real;Por evento
+91884981;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;0;Real;Por evento
+91884981;1208;CHEQUE - Cheque Visado;por cheque;2008-04-30;0;Real;Por evento
+91884981;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-04-30;0;Real;Por evento
+91884981;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2008-04-30;0;Real;Por evento
+91884981;1212;DEPÓSITO - Depósito Identificado;Por operação;2008-04-30;0;Real;Por evento
+91884981;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2008-04-30;0;Real;Por evento
+91884981;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2008-04-30;0;Real;Por evento
+91884981;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2008-04-30;0;Real;Por evento
+91884981;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-04-30;0;Real;Por evento
+91884981;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2008-04-30;0;Real;Por evento
+91884981;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2008-04-30;0;Real;Por evento
+91884981;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2008-04-30;0;Real;Por evento
+91884981;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2008-04-30;0;Real;Por evento
+91884981;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2008-04-30;0;Real;Por evento
+91884981;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-04-30;0;Real;Por evento
+91884981;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2008-04-30;0;Real;Por evento
+91884981;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2008-04-30;0;Real;Por evento
+91884981;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2011-04-02;0;Real;Por evento
+91884981;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2011-04-02;0;Real;Por evento
+91884981;1313;Transferência por meio de TED - TED pessoal;por evento;2011-04-02;0;Real;Por evento
+91884981;1314;Transferência por meio de TED - TED eletrônico;por evento;2011-04-02;0;Real;Por evento
+91884981;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2008-04-30;0;Real;Por evento
+91884981;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2008-04-30;0;Real;Por evento
+59118133;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-09-20;4000;Real;Por evento
+59118133;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2015-11-09;40;Real;Por evento
+59118133;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2015-11-09;15;Real;Por evento
+59118133;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2015-11-09;5;Real;Por evento
+59118133;1206;CHEQUE - Cheque Administrativo;Por Cheque;2015-11-09;50;Real;Por evento
+59118133;1208;CHEQUE - Cheque Visado;por cheque;2015-11-09;20;Real;Por evento
+59118133;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-04-30;0;Real;Por evento
+59118133;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2015-11-09;10;Real;Por evento
+59118133;1212;DEPÓSITO - Depósito Identificado;Por operação;2015-11-09;5;Real;Por evento
+59118133;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2015-11-09;5;Real;Por evento
+59118133;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2015-11-09;5;Real;Por evento
+59118133;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2015-11-09;5;Real;Por evento
+59118133;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-04-30;5;Real;Por evento
+59118133;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2015-11-09;5;Real;Por evento
+59118133;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2015-11-09;5;Real;Por evento
+59118133;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2021-09-20;50;Real;Por evento
+59118133;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2021-09-20;50;Real;Por evento
+59118133;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2021-09-20;50;Real;Por evento
+59118133;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2015-11-09;30;Real;Por evento
+59118133;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2015-11-09;30;Real;Por evento
+59118133;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2015-11-09;30;Real;Por evento
+59118133;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-09-20;50;Real;Por evento
+59118133;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2021-09-20;50;Real;Por evento
+59118133;1312;Transferência por meio de DOC - DOC internet;por evento;2021-09-20;50;Real;Por evento
+59118133;1313;Transferência por meio de TED - TED pessoal;por evento;2021-09-20;50;Real;Por evento
+59118133;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-09-20;50;Real;Por evento
+59118133;1315;Transferência por meio de TED - TED internet;por evento;2021-09-20;50;Real;Por evento
+59118133;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2012-12-01;50;Real;Por evento
+59118133;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2015-11-09;30;Real;Por evento
+59118133;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2015-11-09;40;Real;Por evento
+59118133;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2015-11-09;60;Real;Por evento
+59118133;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2015-11-09;80;Real;Por evento
+59118133;1701;Venda de moeda estrangeira - espécie;Por operação;2021-09-20;500;Real;Por evento
+59118133;1705;Compra de moeda estrangeira - espécie;Por operação;2021-09-20;500;Real;Por evento
+78632767;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2022-01-01;2900;Real;Por evento
+78632767;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2008-05-02;0;Real;Por evento
+78632767;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-05-02;0;Real;Por evento
+78632767;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2022-01-01;20;Real;Por evento
+78632767;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2022-01-01;14;Real;Por evento
+78632767;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2022-01-01;500;Real;Por evento
+78632767;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2022-01-01;140;Real;Por evento
+78632767;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2022-01-01;80;Real;Por evento
+78632767;1701;Venda de moeda estrangeira - espécie;Por operação;2022-01-01;350;Real;Por evento
+78632767;1702;Venda de moeda estrangeira - cheque de viagem;Por operação;2022-01-01;350;Real;Por evento
+78632767;1703;Venda de moeda estrangeira - cartão pré-pago - emissão e carga;Por operação;2022-01-01;350;Real;Por evento
+78632767;1704;Venda de moeda estrangeira - cartão pré-pago - recarga;Por operação;2022-01-01;350;Real;Por evento
+78632767;1705;Compra de moeda estrangeira - espécie;Por operação;2022-01-01;350;Real;Por evento
+78632767;1706;Compra de moeda estrangeira - cheque de viagem;Por operação;2022-01-01;350;Real;Por evento
+78632767;1707;Compra de moeda estrangeira - cartão pré-pago;Por operação;2022-01-01;350;Real;Por evento
+61820817;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2012-06-06;900;Real;Por evento
+61820817;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2008-04-30;0;Real;Por evento
+61820817;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2008-04-30;20;Real;Por evento
+61820817;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2008-04-30;12;Real;Por evento
+61820817;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2008-04-30;1;Real;Por evento
+61820817;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;25;Real;Por evento
+61820817;1208;CHEQUE - Cheque Visado;por cheque;2008-04-30;25;Real;Por evento
+61820817;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2008-04-30;5;Real;Por evento
+61820817;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2008-04-30;3;Real;Por evento
+61820817;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2008-04-30;3;Real;Por evento
+61820817;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-04-30;5;Real;Por evento
+61820817;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2008-04-30;5;Real;Por evento
+61820817;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2014-05-28;25;Real;Por evento
+61820817;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2014-05-28;25;Real;Por evento
+61820817;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2014-05-28;25;Real;Por evento
+61820817;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-04-30;3;Real;Por evento
+61820817;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2008-04-30;3;Real;Por evento
+61820817;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2019-06-13;45;Real;Por evento
+61820817;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2019-06-13;20;Real;Por evento
+61820817;1312;Transferência por meio de DOC - DOC internet;por evento;2019-06-13;20;Real;Por evento
+61820817;1313;Transferência por meio de TED - TED pessoal;por evento;2019-06-13;45;Real;Por evento
+61820817;1314;Transferência por meio de TED - TED eletrônico;por evento;2019-06-13;20;Real;Por evento
+61820817;1315;Transferência por meio de TED - TED internet;por evento;2019-06-13;20;Real;Por evento
+61820817;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2012-06-25;50;Real;Por evento
+61820817;1701;Venda de moeda estrangeira - espécie;Por operação;2012-01-02;0;Real;Por evento
+61820817;1702;Venda de moeda estrangeira - cheque de viagem;Por operação;2012-01-02;0;Real;Por evento
+61820817;1703;Venda de moeda estrangeira - cartão pré-pago - emissão e carga;Por operação;2012-01-02;0;Real;Por evento
+61820817;1704;Venda de moeda estrangeira - cartão pré-pago - recarga;Por operação;2012-01-02;0;Real;Por evento
+61820817;1705;Compra de moeda estrangeira - espécie;Por operação;2012-01-02;0;Real;Por evento
+61820817;1706;Compra de moeda estrangeira - cheque de viagem;Por operação;2012-01-02;0;Real;Por evento
+61820817;1707;Compra de moeda estrangeira - cartão pré-pago;Por operação;2012-01-02;0;Real;Por evento
+00795423;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2016-04-04;3000;Real;Por evento
+00795423;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2016-04-04;15;Real;Por evento
+00795423;1206;CHEQUE - Cheque Administrativo;Por Cheque;2016-04-04;50;Real;Por evento
+00795423;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2015-11-05;5;Real;Por evento
+00795423;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2015-11-05;0;Real;Por evento
+00795423;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2015-11-05;5;Real;Por evento
+00795423;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2015-05-08;40;Real;Por evento
+00795423;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2016-04-04;2;Real;Por evento
+00795423;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2016-04-04;2;Real;Por evento
+00795423;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2016-04-04;30;Real;Por evento
+00795423;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2015-05-08;40;Real;Por evento
+00795423;1313;Transferência por meio de TED - TED pessoal;por evento;2015-05-08;40;Real;Por evento
+00795423;1315;Transferência por meio de TED - TED internet;por evento;2015-05-08;7;Real;Por evento
+00795423;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2017-02-02;15;Real;Por evento
+00795423;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2017-02-02;10;Real;Por evento
+11970623;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2012-04-03;100;Real;Por evento
+11970623;1313;Transferência por meio de TED - TED pessoal;por evento;2021-05-14;15;Real;Por evento
+11970623;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2017-08-24;100;Real;Por evento
+11970623;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2017-08-24;0;Real;Por evento
+07679404;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-11-10;0;Real;Por evento
+07679404;1210;Saque de conta de depósitos à vista e de poupança - SAQUE Terminal;Por operação;2009-06-14;5;Real;Por evento
+07679404;1212;DEPÓSITO - Depósito Identificado;Por operação;2009-06-14;2;Real;Por evento
+07679404;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2021-11-10;0;Real;Por evento
+07679404;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2021-11-10;0;Real;Por evento
+07679404;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2021-11-10;0;Real;Por evento
+07679404;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2009-06-14;25;Real;Por evento
+07679404;1703;Venda de moeda estrangeira - cartão pré-pago - emissão e carga;Por operação;2012-07-01;200;Real;Por evento
+07679404;1704;Venda de moeda estrangeira - cartão pré-pago - recarga;Por operação;2012-07-01;200;Real;Por evento
+07679404;1707;Compra de moeda estrangeira - cartão pré-pago;Por operação;2012-07-01;200;Real;Por evento
+03215790;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2015-08-03;550;Real;Por evento
+03215790;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2010-09-02;0;Real;Por evento
+17351180;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2018-03-13;90;Real;Por evento
+17351180;1201;CARTÃO - Fornecimento de 2º via de cartão com função débito;por cliente;2018-03-13;10;Real;Por evento
+17351180;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2008-04-30;24;Real;Por evento
+17351180;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2008-04-30;6;Real;Por evento
+17351180;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2008-04-30;5;Real;Por evento
+17351180;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;13;Real;Por evento
+17351180;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2018-03-13;10;Real;Por evento
+17351180;1210;Saque de conta de depósitos à vista e de poupança - SAQUE Terminal;Por operação;2018-03-13;10;Real;Por evento
+17351180;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2018-03-13;10;Real;Por evento
+17351180;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2018-03-13;5;Real;Por evento
+17351180;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2009-12-01;0;Real;Por evento
+17351180;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2011-03-01;0;Real;Por evento
+17351180;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2018-03-13;5;Real;Por evento
+17351180;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2009-12-01;0;Real;Por evento
+17351180;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2009-12-01;0;Real;Por evento
+17351180;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2018-03-13;50;Real;Por evento
+17351180;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2018-03-13;5;Real;Por evento
+17351180;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2018-03-13;5;Real;Por evento
+17351180;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2008-04-30;18;Real;Por evento
+17351180;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2018-03-13;50;Real;Por evento
+17351180;1313;Transferência por meio de TED - TED pessoal;por evento;2018-03-13;50;Real;Por evento
+17351180;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2008-04-30;30;Real;Por evento
+17351180;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2018-05-18;10;Real;Por evento
+17351180;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2013-08-05;20;Real;Por evento
+17351180;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2013-08-05;42;Real;Por evento
+17351180;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2013-08-05;70;Real;Por evento
+17351180;1601;Anuidade - cartão básico nacional;a cada 365 dias;2019-05-31;130;Real;A cada 360 dias
+17351180;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2019-01-21;10;Real;Por evento
+17351180;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2019-05-31;15;Real;Por evento
+17351180;1605;Avaliação emergencial de crédito;por evento;2020-07-18;25;Real;Por evento
+17351180;1606;Anuidade - cartão básico internacional;a cada 365 dias;2019-05-31;140;Real;A cada 360 dias
+57839805;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-04-30;0;Real;Por evento
+57839805;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-04-30;20;Real;Por evento
+57839805;1212;DEPÓSITO - Depósito Identificado;Por operação;2008-04-30;0;Real;Por evento
+57839805;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2008-04-30;0;Real;Por evento
+57839805;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-04-30;0;Real;Por evento
+57839805;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2020-01-13;15;Real;Por evento
+57839805;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-04-30;0;Real;Por evento
+57839805;1312;Transferência por meio de DOC - DOC internet;por evento;2020-01-13;15;Real;Por evento
+57839805;1313;Transferência por meio de TED - TED pessoal;por evento;2020-11-13;15;Real;Por evento
+57839805;1315;Transferência por meio de TED - TED internet;por evento;2020-01-13;15;Real;Por evento
+09313766;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2017-08-14;9000;Real;Por evento
+09313766;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2021-06-03;0;Real;Por evento
+09313766;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2014-02-03;50;Real;Por evento
+09313766;1312;Transferência por meio de DOC - DOC internet;por evento;2021-06-20;50;Real;Por evento
+09313766;1314;Transferência por meio de TED - TED eletrônico;por evento;2014-02-03;50;Real;Por evento
+09313766;1315;Transferência por meio de TED - TED internet;por evento;2021-06-20;50;Real;Por evento
+09313766;1601;Anuidade - cartão básico nacional;a cada 365 dias;2021-07-05;200;Real;A cada 30 dias
+09313766;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2012-05-11;200;Real;Por evento
+09313766;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2012-07-02;200;Real;Por evento
+09313766;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2021-07-05;20;Real;Por evento
+09313766;1605;Avaliação emergencial de crédito;por evento;2021-05-21;0;Real;Por evento
+09313766;1606;Anuidade - cartão básico internacional;a cada 365 dias;2021-07-05;250;Real;A cada 30 dias
+09313766;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2021-07-05;15;Real;Por evento
+62331228;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-05-12;0;Real;Por evento
+62331228;1206;CHEQUE - Cheque Administrativo;Por Cheque;2008-05-12;0;Real;Por evento
+62331228;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2008-05-12;0;Real;Por evento
+62331228;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2008-05-12;0;Real;Por evento
+62331228;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2008-05-12;0;Real;Por evento
+62331228;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2008-05-12;0;Real;Por evento
+62331228;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2008-05-12;0;Real;Por evento
+62331228;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2008-05-12;0;Real;Por evento
+62331228;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2008-05-12;0;Real;Por evento
+62331228;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2008-05-12;0;Real;Por evento
+62331228;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2008-05-12;0;Real;Por evento
+62331228;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2008-05-12;0;Real;Por evento
+62331228;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2008-05-12;0;Real;Por evento
+62331228;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2021-07-02;0;Real;Por evento
+62331228;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2021-07-02;0;Real;Por evento
+62331228;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2021-07-02;0;Real;Por evento
+15581638;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2014-05-22;1800;Real;Por evento
+15581638;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2014-11-14;25;Real;Por evento
+15581638;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2014-11-14;20;Real;Por evento
+15581638;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2014-11-14;20;Real;Por evento
+15581638;1313;Transferência por meio de TED - TED pessoal;por evento;2014-11-14;20;Real;Por evento
+15581638;1314;Transferência por meio de TED - TED eletrônico;por evento;2014-11-14;20;Real;Por evento
+00411939;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-09-09;800;Real;Por evento
+00411939;1601;Anuidade - cartão básico nacional;a cada 365 dias;2011-04-02;0;Real;A cada 0 dias
+00411939;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2011-04-02;0;Real;Por evento
+00411939;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2011-04-02;0;Real;Por evento
+00411939;1605;Avaliação emergencial de crédito;por evento;2011-04-02;0;Real;Por evento
+00411939;1606;Anuidade - cartão básico internacional;a cada 365 dias;2011-07-02;0;Real;A cada 0 dias
+00411939;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2011-07-02;0;Real;Por evento
+04230630;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2016-02-03;0;Real;Por evento
+09464032;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2012-06-02;0;Real;Por evento
+09464032;1601;Anuidade - cartão básico nacional;a cada 365 dias;2022-05-10;132;Real;A cada 360 dias
+09464032;1606;Anuidade - cartão básico internacional;a cada 365 dias;2021-08-01;120;Real;A cada 360 dias
+09464032;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2021-08-01;20;Real;Por evento
+74828799;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2017-08-28;290;Real;Por evento
+74828799;1203;CHEQUE - Exclusão do Cadastro de Emitentes de Cheques sem Fundo (CCF);Por Operação;2021-01-08;60;Real;Por evento
+74828799;1204;CHEQUE - Contra-ordem e oposição ao pagamento de cheque;Por cheque;2021-01-08;50;Real;Por evento
+74828799;1205;CHEQUE - Fornecimento de folhas de cheque;por cheque;2021-01-08;100;Real;Por evento
+74828799;1206;CHEQUE - Cheque Administrativo;Por Cheque;2021-01-08;75;Real;Por evento
+74828799;1209;Saque de conta de depósitos à vista e de poupança - SAQUE pessoal;Por operação;2009-11-27;0;Real;Por evento
+74828799;1211;Saque de conta de dep. à vista e de poupança - SAQUE correspondente;Por operação;2009-11-27;0;Real;Por evento
+74828799;1213;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (P);Por operação;2021-01-08;10;Real;Por evento
+74828799;1214;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (E);Por operação;2021-01-08;10;Real;Por evento
+74828799;1215;Forn. de ext. de um periodo conta dep. à vista e poup. - EXTRATO (C);por operação;2021-01-08;10;Real;Por evento
+74828799;1216;Ext. mensal de conta de dep. à vista e poup. p/um período -EXTRATO(P);Por operação;2021-01-08;10;Real;Por evento
+74828799;1217;Ext. mensal de conta de dep. à vista e Poup. p/um período - EXTRATO(E);por operação;2021-01-08;10;Real;Por evento
+74828799;1218;Ext. mensal de conta de dep. à vista e poup. p/um período - EXTRATO(C);por operação;2021-01-08;10;Real;Por evento
+74828799;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2012-09-02;5;Real;Por evento
+74828799;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2012-11-01;15;Real;Por evento
+74828799;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2014-12-25;20;Real;Por evento
+74828799;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2014-10-25;20;Real;Por evento
+74828799;1312;Transferência por meio de DOC - DOC internet;por evento;2021-01-08;20;Real;Por evento
+74828799;1313;Transferência por meio de TED - TED pessoal;por evento;2014-10-25;30;Real;Por evento
+74828799;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-01-08;15;Real;Por evento
+74828799;1315;Transferência por meio de TED - TED internet;por evento;2021-01-08;15;Real;Por evento
+74828799;1401;Concessão de adiantamento a depositante - ADIANT. DEPOSITANTE;Por operação;2014-10-25;35;Real;Por evento
+74828799;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2014-10-25;210;Real;Por evento
+74828799;1601;Anuidade - cartão básico nacional;a cada 365 dias;2022-06-01;300;Real;A cada 365 dias
+74828799;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2016-07-14;32;Real;Por evento
+74828799;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2016-07-14;32;Real;Por evento
+74828799;1605;Avaliação emergencial de crédito;por evento;2016-07-14;40;Real;Por evento
+74828799;1606;Anuidade - cartão básico internacional;a cada 365 dias;2016-07-14;480;Real;A cada 365 dias
+74828799;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2016-07-14;44;Real;Por evento
+03311443;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-12-31;0;Real;Por evento
+03311443;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2009-01-11;20;Real;Por evento
+03311443;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2009-01-11;20;Real;Por evento
+03311443;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2009-01-11;20;Real;Por evento
+03311443;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2021-12-31;0;Real;Por evento
+03311443;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2009-04-24;15;Real;Por evento
+03311443;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2011-05-01;20;Real;Por evento
+03311443;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2011-05-01;20;Real;Por evento
+03311443;1312;Transferência por meio de DOC - DOC internet;por evento;2011-05-01;20;Real;Por evento
+03311443;1313;Transferência por meio de TED - TED pessoal;por evento;2011-05-01;20;Real;Por evento
+03311443;1314;Transferência por meio de TED - TED eletrônico;por evento;2011-05-01;20;Real;Por evento
+03311443;1315;Transferência por meio de TED - TED internet;por evento;2021-12-31;0;Real;Por evento
+43180355;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2018-06-01;20;Real;Por evento
+43180355;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2019-01-28;15;Real;Por evento
+43180355;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2018-09-21;12;Real;Por evento
+43180355;1606;Anuidade - cartão básico internacional;a cada 365 dias;2020-03-20;380;Real;A cada 360 dias
+01800019;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2012-12-31;1000;Real;Por evento
+01800019;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2012-07-23;10;Real;Por evento
+01800019;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2012-07-23;10;Real;Por evento
+01800019;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2012-07-23;10;Real;Por evento
+01800019;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2008-04-30;100;Real;Por evento
+01800019;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2011-12-31;10;Real;Por evento
+01800019;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2011-12-31;10;Real;Por evento
+01800019;1312;Transferência por meio de DOC - DOC internet;por evento;2011-12-31;10;Real;Por evento
+01800019;1313;Transferência por meio de TED - TED pessoal;por evento;2011-12-31;10;Real;Por evento
+01800019;1314;Transferência por meio de TED - TED eletrônico;por evento;2011-12-31;10;Real;Por evento
+01800019;1315;Transferência por meio de TED - TED internet;por evento;2011-12-31;10;Real;Por evento
+01800019;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2021-12-01;2000;Real;Por evento
+27351731;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2017-08-02;0;Real;Por evento
+27351731;1607;Utilização de canais de atend. para retirada em espécie - no exterior;por evento;2017-09-15;10;Real;Por evento
+05503849;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2021-05-01;2500;Real;Por evento
+05503849;1206;CHEQUE - Cheque Administrativo;Por Cheque;2011-04-05;25;Real;Por evento
+05503849;1212;DEPÓSITO - Depósito Identificado;Por operação;2011-04-05;5;Real;Por evento
+05503849;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2011-11-04;21;Real;Por evento
+05503849;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2011-11-04;21;Real;Por evento
+05503849;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2011-11-04;21;Real;Por evento
+05503849;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2011-11-04;21;Real;Por evento
+05503849;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2011-11-04;21;Real;Por evento
+05503849;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2011-11-04;21;Real;Por evento
+05503849;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2011-04-05;21;Real;Por evento
+05503849;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2011-04-05;21;Real;Por evento
+05503849;1312;Transferência por meio de DOC - DOC internet;por evento;2011-11-04;21;Real;Por evento
+05503849;1313;Transferência por meio de TED - TED pessoal;por evento;2011-04-05;21;Real;Por evento
+05503849;1314;Transferência por meio de TED - TED eletrônico;por evento;2011-04-05;21;Real;Por evento
+05503849;1315;Transferência por meio de TED - TED internet;por evento;2011-11-04;21;Real;Por evento
+00122327;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-04-30;10;Percentual;Por evento
+00122327;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2021-07-03;0;Real;Por evento
+00122327;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2021-07-03;0;Real;Por evento
+00122327;1312;Transferência por meio de DOC - DOC internet;por evento;2021-07-03;0;Real;Por evento
+00122327;1313;Transferência por meio de TED - TED pessoal;por evento;2021-07-03;0;Real;Por evento
+00122327;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-07-03;0;Real;Por evento
+00122327;1315;Transferência por meio de TED - TED internet;por evento;2021-07-03;0;Real;Por evento
+00122327;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2008-04-30;10;Percentual;Por evento
+00122327;1601;Anuidade - cartão básico nacional;a cada 365 dias;2011-03-02;0;Real;A cada 0 dias
+00122327;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2011-03-31;2;Real;Por evento
+00122327;1605;Avaliação emergencial de crédito;por evento;2011-03-02;0;Real;Por evento
+07747410;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2008-08-10;200;Real;Por evento
+07747410;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2016-06-30;0;Real;Por evento
+07747410;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2016-06-30;0;Real;Por evento
+03881423;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2019-11-09;10000;Real;Por evento
+03881423;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2017-11-10;20;Real;Por evento
+03881423;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2017-11-10;20;Real;Por evento
+03881423;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2017-11-10;20;Real;Por evento
+03881423;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2017-11-10;20;Real;Por evento
+03881423;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2017-11-10;20;Real;Por evento
+03881423;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2017-11-10;20;Real;Por evento
+03881423;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2017-11-10;20;Real;Por evento
+03881423;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2017-11-10;20;Real;Por evento
+03881423;1312;Transferência por meio de DOC - DOC internet;por evento;2017-11-10;20;Real;Por evento
+03881423;1313;Transferência por meio de TED - TED pessoal;por evento;2017-11-10;20;Real;Por evento
+03881423;1314;Transferência por meio de TED - TED eletrônico;por evento;2017-11-10;20;Real;Por evento
+03881423;1315;Transferência por meio de TED - TED internet;por evento;2017-11-10;20;Real;Por evento
+03881423;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2021-05-05;0;Real;Por evento
+03881423;1502;PACOTE PADRONIZADO DE SERVIÇOS II;por cliente;2021-05-05;0;Real;Por evento
+03881423;1503;PACOTE PADRONIZADO DE SERVIÇOS III;por cliente;2021-05-05;0;Real;Por evento
+03881423;1504;PACOTE PADRONIZADO DE SERVIÇOS IV;por cliente;2021-05-05;0;Real;Por evento
+03881423;1601;Anuidade - cartão básico nacional;a cada 365 dias;2011-03-02;0;Real;A cada 0 dias
+03881423;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2011-03-02;0;Real;Por evento
+03881423;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2011-03-02;0;Real;Por evento
+03881423;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2011-03-02;0;Real;Por evento
+03881423;1605;Avaliação emergencial de crédito;por evento;2011-03-02;0;Real;Por evento
+05192316;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2015-01-15;9999;Real;Por evento
+05192316;1314;Transferência por meio de TED - TED eletrônico;por evento;2021-11-27;5;Real;Por evento
+05192316;1501;PACOTE PADRONIZADO DE SERVIÇOS I;por cliente;2014-02-16;1020;Real;Por evento
+05192316;1601;Anuidade - cartão básico nacional;a cada 365 dias;2016-05-01;500;Real;A cada 365 dias
+05192316;1602;Fornecimento de 2ª via de cartão com função crédito;por evento;2013-07-12;100;Real;Por evento
+05192316;1603;Utilização de canais de atend. para retirada em espécie - no país;por evento;2016-05-01;9999;Real;Por evento
+05192316;1604;Pagamento de contas utilizando a função crédito em espécie;por evento;2013-05-01;100;Real;Por evento
+05192316;1605;Avaliação emergencial de crédito;por evento;2012-08-10;100;Real;Por evento
+23862762;1101;Confecção de cadastro para início de relacionamento - CADASTRO;Por cliente;2016-10-16;60;Real;Por evento
+23862762;1212;DEPÓSITO - Depósito Identificado;Por operação;2016-10-16;25;Real;Por evento
+23862762;1304;Transferência agendada por meio de DOC/TED - DOC/TED agendado(P);por operação;2016-10-16;20;Real;Por evento
+23862762;1305;Transferência agendada por meio de DOC/TED - DOC/TED agendado(E);por operação;2016-10-16;20;Real;Por evento
+23862762;1306;Transferência agendada por meio de DOC/TED - DOC/TED agendado(I);por operação;2016-10-16;20;Real;Por evento
+23862762;1307;Transferência entre contas na própria instituição- TRANSF. RECURSOS(P);Por operação;2016-10-16;20;Real;Por evento
+23862762;1308;Transferência entre contas na própria instituição-TRANSF.RECURSOS(E/I);por operação;2016-10-16;20;Real;Por evento
+23862762;1309;Ordem de Pagamento - ORDEM PAGAMENTO;por operação;2016-10-16;60;Real;Por evento
+23862762;1310;Transferência por meio de DOC - DOC Pessoal;por evento;2016-10-16;20;Real;Por evento
+23862762;1311;Transferência por meio de DOC - DOC eletrônico;por evento;2016-10-16;20;Real;Por evento
+23862762;1312;Transferência por meio de DOC - DOC internet;por evento;2016-10-16;20;Real;Por evento
+23862762;1313;Transferência por meio de TED - TED pessoal;por evento;2016-10-16;20;Real;Por evento
+23862762;1314;Transferência por meio de TED - TED eletrônico;por evento;2016-10-16;20;Real;Por evento
+23862762;1315;Transferência por meio de TED - TED internet;por evento;2016-10-16;20;Real;Por evento
