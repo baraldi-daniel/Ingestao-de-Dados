@@ -4,7 +4,7 @@
 ### O Exercício tem o objetivo de usar ferramentas de ETL, um banco de dados relacional e uma ferramenta de visualização para usar e tratar dados de duas bases (um CSV e a resposta de uma chamada de API).
 ### As ferramentas usada para esse caso foram, respectivamente, Talend (ETL), MySQL (Base de Dados relacional) e Grafana (Dashboard).
 
-### Com isso, os Jobs utilizados no TALEND foram os seguintes:
+### Com isso, os Jobs utilizados no TALEND (arquivo "talendETL.jar" tem todas as configurações e tudo o que foi usado na ferramenta) foram os seguintes:
 
 Job Geral:
 ![image](https://user-images.githubusercontent.com/108779870/178613333-867c57dc-e98c-4e15-805d-9f59d6701e22.png)
