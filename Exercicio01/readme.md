@@ -48,7 +48,8 @@ Grafana antes da execução dos Jobs:
 ![image](https://user-images.githubusercontent.com/108779870/178615583-90c17980-1a57-4afc-a84c-3b8e510fabb6.png)
 
 Grafana após a execução dos Jobs:
-![image](https://user-images.githubusercontent.com/108779870/178617324-b938eec3-fc93-40fd-a0e0-d71f0c06e419.png)
-![image](https://user-images.githubusercontent.com/108779870/178617358-b3e708f8-cfc7-45b5-8716-143b9ff87a7a.png)
-![image](https://user-images.githubusercontent.com/108779870/178617393-af79cc8f-96ea-4d60-ad26-fdb69550ec23.png)
+![image](https://user-images.githubusercontent.com/108779870/178623487-803d0647-8702-4e32-85d0-c54d4ad19ba2.png)
+![image](https://user-images.githubusercontent.com/108779870/178623499-434e1765-969f-418c-8142-88b306ace519.png)
+![image](https://user-images.githubusercontent.com/108779870/178623515-2965daba-d6c2-4514-8a1a-f5c0949d7a8e.png)
+
 
