@@ -45,7 +45,7 @@ Job Junção de Bases e Transferência para DB:
 ### Para a visualização dos dados, foi utilizado o Grafana, conforme abaixo, com três gráficos (um com a base csv consolidada, outro com a base de dados da API consolidada e um terceiro com a junção das duas bases): 
 
 Grafana antes da execução dos Jobs:
-![image](https://user-images.githubusercontent.com/108779870/178615583-90c17980-1a57-4afc-a84c-3b8e510fabb6.png)
+![image](https://user-images.githubusercontent.com/108779870/178623631-0e3ecc65-b5fb-47a5-9f54-2966f5e9b5de.png)
 
 Grafana após a execução dos Jobs:
 ![image](https://user-images.githubusercontent.com/108779870/178623487-803d0647-8702-4e32-85d0-c54d4ad19ba2.png)
