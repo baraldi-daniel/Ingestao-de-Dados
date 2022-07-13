@@ -47,7 +47,7 @@ Job Junção de Bases e Transferência para DB:
 Grafana antes da execução dos Jobs:
 ![image](https://user-images.githubusercontent.com/108779870/178623631-0e3ecc65-b5fb-47a5-9f54-2966f5e9b5de.png)
 
-Grafana após a execução dos Jobs:
+Grafana após a execução dos Jobs (as configurações podem ser vistas no arquivo "Grafana.json"):
 ![image](https://user-images.githubusercontent.com/108779870/178623487-803d0647-8702-4e32-85d0-c54d4ad19ba2.png)
 ![image](https://user-images.githubusercontent.com/108779870/178623499-434e1765-969f-418c-8142-88b306ace519.png)
 ![image](https://user-images.githubusercontent.com/108779870/178623515-2965daba-d6c2-4514-8a1a-f5c0949d7a8e.png)
