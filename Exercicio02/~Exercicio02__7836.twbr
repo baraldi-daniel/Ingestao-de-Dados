@@ -1,0 +1,884 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20222.22.0624.2136                               -->
+<workbook original-version='18.1' source-build='2022.2.0 (20222.22.0624.2136)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='diminstituicao+ (engenhariadados)' inline='true' name='federated.1rubxb80ot0xo814j60y60p0geld' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='localhost' name='mysql.1qtxuzw0tnecsm1fuay2a05jysc6'>
+            <connection class='mysql' dbname='engenhariadados' odbc-native-protocol='' one-time-sql='' port='3306' server='localhost' source-charset='' username='root' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimcategoria' table='[dimcategoria]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='diminstituicao' table='[diminstituicao]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='fato1' table='[fato1]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimcategoria' table='[dimcategoria]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimperiodo' table='[dimperiodo]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimtipo' table='[dimtipo]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='fato2' table='[fato2]' type='table' />
+          <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimservicos' table='[dimservicos]' type='table' />
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Ano]' value='[dimperiodo].[Ano]' />
+          <map key='[CHAVEPERIODO]' value='[fato1].[CHAVEPERIODO]' />
+          <map key='[CNPJ (dimcategoria)]' value='[dimcategoria].[CNPJ]' />
+          <map key='[CNPJ (dimtipo)]' value='[dimtipo].[CNPJ]' />
+          <map key='[CNPJ (fato1)]' value='[fato1].[CNPJ]' />
+          <map key='[CNPJ (fato2)]' value='[fato2].[CNPJ]' />
+          <map key='[CNPJ]' value='[diminstituicao].[CNPJ]' />
+          <map key='[CONCAT(Ano,Trimestre)]' value='[dimperiodo].[CONCAT(Ano,Trimestre)]' />
+          <map key='[Categoria]' value='[dimcategoria].[Categoria]' />
+          <map key='[CodigoServico (dimservicos)]' value='[dimservicos].[CodigoServico]' />
+          <map key='[CodigoServico]' value='[fato2].[CodigoServico]' />
+          <map key='[InstituicaoFinanceira]' value='[diminstituicao].[InstituicaoFinanceira]' />
+          <map key='[QTDPROBLEMASREGULADOSPROCEDENTES]' value='[fato1].[QTDPROBLEMASREGULADOSPROCEDENTES]' />
+          <map key='[Servico]' value='[dimservicos].[Servico]' />
+          <map key='[Tipo]' value='[dimtipo].[Tipo]' />
+          <map key='[Trimestre]' value='[dimperiodo].[Trimestre]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>CNPJ</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[CNPJ]</local-name>
+            <parent-name>[diminstituicao]</parent-name>
+            <remote-alias>CNPJ</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>InstituicaoFinanceira</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[InstituicaoFinanceira]</local-name>
+            <parent-name>[diminstituicao]</parent-name>
+            <remote-alias>InstituicaoFinanceira</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CHAVEPERIODO</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[CHAVEPERIODO]</local-name>
+            <parent-name>[fato1]</parent-name>
+            <remote-alias>CHAVEPERIODO</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fato1_71983A85DD4F431FA0088E9253983E27]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CNPJ</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[CNPJ (fato1)]</local-name>
+            <parent-name>[fato1]</parent-name>
+            <remote-alias>CNPJ</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fato1_71983A85DD4F431FA0088E9253983E27]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>QTDPROBLEMASREGULADOSPROCEDENTES</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[QTDPROBLEMASREGULADOSPROCEDENTES]</local-name>
+            <parent-name>[fato1]</parent-name>
+            <remote-alias>QTDPROBLEMASREGULADOSPROCEDENTES</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fato1_71983A85DD4F431FA0088E9253983E27]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CNPJ</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[CNPJ (dimcategoria)]</local-name>
+            <parent-name>[dimcategoria]</parent-name>
+            <remote-alias>CNPJ</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimcategoria_BC9EF1A455F54BB9A7ABADC92A4E67E4]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Categoria</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Categoria]</local-name>
+            <parent-name>[dimcategoria]</parent-name>
+            <remote-alias>Categoria</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimcategoria_BC9EF1A455F54BB9A7ABADC92A4E67E4]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CONCAT(Ano,Trimestre)</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[CONCAT(Ano,Trimestre)]</local-name>
+            <parent-name>[dimperiodo]</parent-name>
+            <remote-alias>CONCAT(Ano,Trimestre)</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>510</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimperiodo_BEFBBA0317AA442D83FC658DA896A698]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ano</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Ano]</local-name>
+            <parent-name>[dimperiodo]</parent-name>
+            <remote-alias>Ano</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimperiodo_BEFBBA0317AA442D83FC658DA896A698]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Trimestre</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Trimestre]</local-name>
+            <parent-name>[dimperiodo]</parent-name>
+            <remote-alias>Trimestre</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimperiodo_BEFBBA0317AA442D83FC658DA896A698]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CNPJ</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[CNPJ (dimtipo)]</local-name>
+            <parent-name>[dimtipo]</parent-name>
+            <remote-alias>CNPJ</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimtipo_E4B2CC4C9533434A8F7A58B8766E37B9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tipo</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Tipo]</local-name>
+            <parent-name>[dimtipo]</parent-name>
+            <remote-alias>Tipo</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimtipo_E4B2CC4C9533434A8F7A58B8766E37B9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CNPJ</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[CNPJ (fato2)]</local-name>
+            <parent-name>[fato2]</parent-name>
+            <remote-alias>CNPJ</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fato2_29073ECCB17A43CFB2BD5B92E31AB614]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CodigoServico</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[CodigoServico]</local-name>
+            <parent-name>[fato2]</parent-name>
+            <remote-alias>CodigoServico</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fato2_29073ECCB17A43CFB2BD5B92E31AB614]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CodigoServico</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[CodigoServico (dimservicos)]</local-name>
+            <parent-name>[dimservicos]</parent-name>
+            <remote-alias>CodigoServico</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimservicos_3781794E28A84F0F903FBF265AD37B82]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Servico</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Servico]</local-name>
+            <parent-name>[dimservicos]</parent-name>
+            <remote-alias>Servico</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[dimservicos_3781794E28A84F0F903FBF265AD37B82]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Chaveperiodo' datatype='string' name='[CHAVEPERIODO]' role='dimension' type='nominal' />
+      <column caption='Cnpj' datatype='integer' name='[CNPJ]' role='dimension' type='ordinal' />
+      <column caption='Index' datatype='integer' name='[Calculation_1321525072789540865]' role='measure' type='ordinal'>
+        <calculation class='tableau' formula='INDEX()'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <column caption='Codigo Servico' datatype='string' name='[CodigoServico]' role='dimension' type='nominal' />
+      <column caption='Instituicao Financeira' datatype='string' name='[InstituicaoFinanceira]' role='dimension' type='nominal' />
+      <column caption='Qtdproblemasreguladosprocedentes' datatype='integer' name='[QTDPROBLEMASREGULADOSPROCEDENTES]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='dimcategoria' datatype='table' name='[__tableau_internal_object_id__].[dimcategoria_BC9EF1A455F54BB9A7ABADC92A4E67E4]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='diminstituicao' datatype='table' name='[__tableau_internal_object_id__].[diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='dimperiodo' datatype='table' name='[__tableau_internal_object_id__].[dimperiodo_BEFBBA0317AA442D83FC658DA896A698]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='dimservicos' datatype='table' name='[__tableau_internal_object_id__].[dimservicos_3781794E28A84F0F903FBF265AD37B82]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='dimtipo' datatype='table' name='[__tableau_internal_object_id__].[dimtipo_E4B2CC4C9533434A8F7A58B8766E37B9]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='fato1' datatype='table' name='[__tableau_internal_object_id__].[fato1_71983A85DD4F431FA0088E9253983E27]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='fato2' datatype='table' name='[__tableau_internal_object_id__].[fato2_29073ECCB17A43CFB2BD5B92E31AB614]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Brasil&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='dimcategoria' id='dimcategoria_BC9EF1A455F54BB9A7ABADC92A4E67E4'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimcategoria' table='[dimcategoria]' type='table' />
+            </properties>
+          </object>
+          <object caption='diminstituicao' id='diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='diminstituicao' table='[diminstituicao]' type='table' />
+            </properties>
+          </object>
+          <object caption='dimperiodo' id='dimperiodo_BEFBBA0317AA442D83FC658DA896A698'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimperiodo' table='[dimperiodo]' type='table' />
+            </properties>
+          </object>
+          <object caption='dimservicos' id='dimservicos_3781794E28A84F0F903FBF265AD37B82'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimservicos' table='[dimservicos]' type='table' />
+            </properties>
+          </object>
+          <object caption='dimtipo' id='dimtipo_E4B2CC4C9533434A8F7A58B8766E37B9'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='dimtipo' table='[dimtipo]' type='table' />
+            </properties>
+          </object>
+          <object caption='fato1' id='fato1_71983A85DD4F431FA0088E9253983E27'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='fato1' table='[fato1]' type='table' />
+            </properties>
+          </object>
+          <object caption='fato2' id='fato2_29073ECCB17A43CFB2BD5B92E31AB614'>
+            <properties context=''>
+              <relation connection='mysql.1qtxuzw0tnecsm1fuay2a05jysc6' name='fato2' table='[fato2]' type='table' />
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[CNPJ (fato1)]' />
+              <expression op='[CNPJ (dimcategoria)]' />
+            </expression>
+            <first-end-point object-id='fato1_71983A85DD4F431FA0088E9253983E27' />
+            <second-end-point object-id='dimcategoria_BC9EF1A455F54BB9A7ABADC92A4E67E4' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[CHAVEPERIODO]' />
+              <expression op='[CONCAT(Ano,Trimestre)]' />
+            </expression>
+            <first-end-point object-id='fato1_71983A85DD4F431FA0088E9253983E27' />
+            <second-end-point object-id='dimperiodo_BEFBBA0317AA442D83FC658DA896A698' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[CodigoServico]' />
+              <expression op='[CodigoServico (dimservicos)]' />
+            </expression>
+            <first-end-point object-id='fato2_29073ECCB17A43CFB2BD5B92E31AB614' />
+            <second-end-point object-id='dimservicos_3781794E28A84F0F903FBF265AD37B82' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[CNPJ (fato1)]' />
+              <expression op='[CNPJ (dimtipo)]' />
+            </expression>
+            <first-end-point object-id='fato1_71983A85DD4F431FA0088E9253983E27' />
+            <second-end-point object-id='dimtipo_E4B2CC4C9533434A8F7A58B8766E37B9' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[CNPJ]' />
+              <expression op='[CNPJ (fato1)]' />
+            </expression>
+            <first-end-point object-id='diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380' />
+            <second-end-point object-id='fato1_71983A85DD4F431FA0088E9253983E27' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[CNPJ]' />
+              <expression op='[CNPJ (fato2)]' />
+            </expression>
+            <first-end-point object-id='diminstituicao_B51E1A4F18764ABF8F0B74ADE112C380' />
+            <second-end-point object-id='fato2_29073ECCB17A43CFB2BD5B92E31AB614' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Planilha 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='diminstituicao+ (engenhariadados)' name='federated.1rubxb80ot0xo814j60y60p0geld' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rubxb80ot0xo814j60y60p0geld'>
+            <column datatype='string' name='[Ano]' role='dimension' type='nominal' />
+            <column caption='Index' datatype='integer' name='[Calculation_1321525072789540865]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='INDEX()'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Instituicao Financeira' datatype='string' name='[InstituicaoFinanceira]' role='dimension' type='nominal' />
+            <column caption='Qtdproblemasreguladosprocedentes' datatype='integer' name='[QTDPROBLEMASREGULADOSPROCEDENTES]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Trimestre]' role='dimension' type='nominal' />
+            <column-instance column='[Ano]' derivation='None' name='[none:Ano:nk]' pivot='key' type='nominal' />
+            <column-instance column='[InstituicaoFinanceira]' derivation='None' name='[none:InstituicaoFinanceira:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Trimestre]' derivation='None' name='[none:Trimestre:nk]' pivot='key' type='nominal' />
+            <column-instance column='[QTDPROBLEMASREGULADOSPROCEDENTES]' derivation='Sum' name='[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1321525072789540865]' derivation='User' name='[usr:Calculation_1321525072789540865:ok]' pivot='key' type='ordinal'>
+              <table-calc ordering-type='Columns' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='1' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='2' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='3' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='4' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='5' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='6' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='7' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='8' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='9' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='10' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1rubxb80ot0xo814j60y60p0geld].[none:InstituicaoFinanceira:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='cell-w' value='20' />
+            <format attr='cell-h' value='20' />
+            <format attr='cell' value='20' />
+            <format attr='cell-q' value='100' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.7999999523162842' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1rubxb80ot0xo814j60y60p0geld].[none:InstituicaoFinanceira:nk]</rows>
+        <cols>(([federated.1rubxb80ot0xo814j60y60p0geld].[none:Ano:nk] / [federated.1rubxb80ot0xo814j60y60p0geld].[none:Trimestre:nk]) * [federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk])</cols>
+      </table>
+      <simple-id uuid='{6826C44F-3559-4EDC-B0A5-4ACF5FD70459}' />
+    </worksheet>
+    <worksheet name='Planilha 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='diminstituicao+ (engenhariadados)' name='federated.1rubxb80ot0xo814j60y60p0geld' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rubxb80ot0xo814j60y60p0geld'>
+            <column caption='Cnpj' datatype='integer' name='[CNPJ]' role='dimension' type='ordinal' />
+            <column caption='Index' datatype='integer' name='[Calculation_1321525072789540865]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='INDEX()'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column datatype='string' name='[Categoria]' role='dimension' type='nominal' />
+            <column caption='Codigo Servico' datatype='string' name='[CodigoServico]' role='dimension' type='nominal' />
+            <column caption='Instituicao Financeira' datatype='string' name='[InstituicaoFinanceira]' role='dimension' type='nominal' />
+            <column caption='Qtdproblemasreguladosprocedentes' datatype='integer' name='[QTDPROBLEMASREGULADOSPROCEDENTES]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Tipo]' role='dimension' type='nominal' />
+            <column-instance column='[CodigoServico]' derivation='CountD' name='[ctd:CodigoServico:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[CNPJ]' derivation='None' name='[none:CNPJ:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Categoria]' derivation='None' name='[none:Categoria:nk]' pivot='key' type='nominal' />
+            <column-instance column='[InstituicaoFinanceira]' derivation='None' name='[none:InstituicaoFinanceira:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Tipo]' derivation='None' name='[none:Tipo:nk]' pivot='key' type='nominal' />
+            <column-instance column='[QTDPROBLEMASREGULADOSPROCEDENTES]' derivation='Sum' name='[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1321525072789540865]' derivation='User' name='[usr:Calculation_1321525072789540865:ok]' pivot='key' type='ordinal'>
+              <table-calc ordering-type='Columns' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='1' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='2' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='3' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='4' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='5' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='6' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='7' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='8' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='9' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='10' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1rubxb80ot0xo814j60y60p0geld].[none:InstituicaoFinanceira:nk]' direction='DESC' measure-to-sort-by='[federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='5' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1rubxb80ot0xo814j60y60p0geld].[ctd:CodigoServico:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='6' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1rubxb80ot0xo814j60y60p0geld].[none:Categoria:nk] / ([federated.1rubxb80ot0xo814j60y60p0geld].[none:Tipo:nk] / ([federated.1rubxb80ot0xo814j60y60p0geld].[none:InstituicaoFinanceira:nk] / [federated.1rubxb80ot0xo814j60y60p0geld].[none:CNPJ:ok])))</rows>
+        <cols>([federated.1rubxb80ot0xo814j60y60p0geld].[sum:QTDPROBLEMASREGULADOSPROCEDENTES:qk] + [federated.1rubxb80ot0xo814j60y60p0geld].[ctd:CodigoServico:qk])</cols>
+      </table>
+      <simple-id uuid='{96911B68-9FD6-4A23-B112-690D9AD8C5EC}' />
+    </worksheet>
+    <worksheet name='Planilha 3'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='diminstituicao+ (engenhariadados)' name='federated.1rubxb80ot0xo814j60y60p0geld' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rubxb80ot0xo814j60y60p0geld'>
+            <column datatype='integer' name='[CNPJ (fato2)]' role='measure' type='quantitative' />
+            <column caption='Index' datatype='integer' name='[Calculation_1321525072789540865]' role='measure' type='ordinal'>
+              <calculation class='tableau' formula='INDEX()'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Instituicao Financeira' datatype='string' name='[InstituicaoFinanceira]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Servico]' role='dimension' type='nominal' />
+            <column-instance column='[Servico]' derivation='Count' name='[cnt:Servico:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[CNPJ (fato2)]' derivation='None' name='[none:CNPJ (fato2):ok]' pivot='key' type='ordinal' />
+            <column-instance column='[InstituicaoFinanceira]' derivation='None' name='[none:InstituicaoFinanceira:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1321525072789540865]' derivation='User' name='[usr:Calculation_1321525072789540865:ok]' pivot='key' type='ordinal'>
+              <table-calc ordering-type='Columns' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='1' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='2' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='3' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='4' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='5' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='6' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='7' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='8' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='9' />
+              <groupfilter function='member' level='[usr:Calculation_1321525072789540865:ok]' member='10' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1rubxb80ot0xo814j60y60p0geld].[none:CNPJ (fato2):ok]' direction='DESC' measure-to-sort-by='[federated.1rubxb80ot0xo814j60y60p0geld].[cnt:Servico:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1rubxb80ot0xo814j60y60p0geld].[usr:Calculation_1321525072789540865:ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>([federated.1rubxb80ot0xo814j60y60p0geld].[none:CNPJ (fato2):ok] / [federated.1rubxb80ot0xo814j60y60p0geld].[none:InstituicaoFinanceira:nk])</rows>
+        <cols>[federated.1rubxb80ot0xo814j60y60p0geld].[cnt:Servico:qk]</cols>
+      </table>
+      <simple-id uuid='{C79D2677-1721-4C41-BD8F-5220BAF41834}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='História 1' type='storyboard'>
+      <style />
+      <size maxheight='964' maxwidth='1016' minheight='964' minwidth='1016' />
+      <zones>
+        <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98340' id='1' param='vert' removable='false' type-v2='layout-flow' w='98426' x='787' y='830'>
+            <zone h='4357' id='3' type-v2='title' w='98426' x='787' y='830' />
+            <zone h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='98426' x='787' y='5187' />
+            <zone h='83506' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='98426' x='787' y='15664'>
+              <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
+                <story-points>
+                  <story-point captured-sheet='Painel 1' id='1' />
+                </story-points>
+              </flipboard>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <simple-id uuid='{4455AE45-76C0-42CF-A1C7-31C2D157596E}' />
+    </dashboard>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Painel 1'>
+      <style />
+      <size maxheight='851' maxwidth='1626' minheight='851' minwidth='1626' sizing-mode='fixed' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98120' id='3' name='Planilha 1' w='99016' x='492' y='940'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+        <zone h='52526' id='13' name='Planilha 2' w='49446' x='615' y='47121' />
+        <zone h='49354' id='16' name='Planilha 3' w='48032' x='50800' y='47239' />
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='900' minheight='900' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='24' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98120' id='23' param='vert' type-v2='layout-flow' w='99016' x='492' y='940'>
+                <zone fixed-size='280' h='98120' id='3' is-fixed='true' name='Planilha 1' w='99016' x='492' y='940'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='52526' id='13' is-fixed='true' name='Planilha 2' w='49446' x='615' y='47121'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49354' id='16' is-fixed='true' name='Planilha 3' w='48032' x='50800' y='47239'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{4426378A-315F-4750-8A58-5801E8B8B619}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' name='Planilha 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{2BFDD126-B731-4F77-802A-16582D827D5D}' />
+    </window>
+    <window class='worksheet' name='Planilha 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{17D28764-C8EA-4064-8E0C-75519162B90C}' />
+    </window>
+    <window class='worksheet' name='Planilha 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C28896B1-BA62-4E40-A2B9-56ED5E8E94C2}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Painel 1'>
+      <viewpoints>
+        <viewpoint name='Planilha 1' />
+        <viewpoint name='Planilha 2' />
+        <viewpoint name='Planilha 3' />
+      </viewpoints>
+      <active id='3' />
+      <simple-id uuid='{BE0B0C50-CBC9-485F-9B55-2DF736A83CD3}' />
+    </window>
+    <window class='dashboard' name='História 1'>
+      <viewpoints />
+      <active id='-1' />
+      <simple-id uuid='{49A9665E-EF36-46DC-BFE3-9A6272C7587F}' />
+    </window>
+  </windows>
+</workbook>

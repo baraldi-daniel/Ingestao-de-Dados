@@ -1,0 +1,7 @@
+DimTempo: create table newtable as select CONCAT(Ano,Trimestre),Ano,Trimestre from csv group by Ano,Trimestre order by Ano,Trimestre;
+
+DimInstituicao: create table instituicao as select InstituicaoFinanceira,CNPJ from csv where CNPJ!="" group by CNPJ order by InstituicaoFinanceira;
+
+DimServico: create table servicos as select CodigoServico,Servico from apidadoscoletados group by CodigoServico order by CodigoServico;
+
+Fato: CONCAT(
