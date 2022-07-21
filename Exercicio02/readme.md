@@ -16,12 +16,12 @@
 
 ### Tabela Fato 1 e suas dimensões:
 
-![image](https://user-images.githubusercontent.com/108779870/179655780-e814a9bf-7d12-407e-9181-e9bd5875a6a0.png)
-![image](https://user-images.githubusercontent.com/108779870/179655846-92246c58-0a81-4049-8fe3-925dc149b07b.png)
+![image](https://user-images.githubusercontent.com/108779870/180108189-0cfd44ff-6f24-4414-88e8-55323697742e.png)
+![image](https://user-images.githubusercontent.com/108779870/180108270-f45e96df-eafb-468d-aa2e-4b0c3140946a.png)
 
 ### Tabela Fato 2 e suas dimensões:
 
-![image](https://user-images.githubusercontent.com/108779870/179655951-2fee1d4d-b4c2-40f1-8f46-94673566385f.png)
+![image](https://user-images.githubusercontent.com/108779870/180108354-9543fd42-9999-45c8-9bd9-be9c689b5622.png)
 
 ## Star Schema no Tableau:
 
@@ -29,4 +29,7 @@
 
 ## Visualização de Dados no Tableau:
 
-![image](https://user-images.githubusercontent.com/108779870/179656821-ab33f647-9615-4bd5-9bc7-a3c06c6ca51d.png)
+![image](https://user-images.githubusercontent.com/108779870/180108424-c38cfdec-8e30-43e0-928f-883ccaf43088.png)
+![image](https://user-images.githubusercontent.com/108779870/180108442-5124c28b-5339-4ebc-bdaa-3ca950de379b.png)
+![image](https://user-images.githubusercontent.com/108779870/180108468-eb674602-2c52-497f-af96-d3f984f04849.png)
+
