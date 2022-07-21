@@ -29,11 +29,10 @@
 
 ## Visualização de Dados no Tableau:
 
-![image](https://user-images.githubusercontent.com/108779870/180125649-2c543f9f-d4d3-4621-b704-bfb9cbcd1937.png)
-![image](https://user-images.githubusercontent.com/108779870/180125376-99267f4b-bd1c-4144-b3f5-fde1160d00f9.png)
-![image](https://user-images.githubusercontent.com/108779870/180125427-34286d17-8bbe-409c-ae62-d6c99bfb1bc0.png)
+![image](https://user-images.githubusercontent.com/108779870/180332674-51a5480c-f6b1-4ed3-9c58-7b79f8b094e9.png)
+![image](https://user-images.githubusercontent.com/108779870/180332682-adf19fe5-f0d7-440b-976c-c02971313f1d.png)
 
-# Para uma possível correlação entre quantidade de problemas e quantidade de serviços, não temos correlação no gráfico de dispersão:
+# Para uma possível correlação entre quantidade de problemas e quantidade de serviços, verificamos que não temos correlação no gráfico de dispersão:
 
-![image](https://user-images.githubusercontent.com/108779870/180125848-14a6af95-4d73-452a-b058-bb5ab04347dd.png)
+![image](https://user-images.githubusercontent.com/108779870/180332707-1c1ee648-e2d8-457f-a2f7-59886abcabfe.png)
 
