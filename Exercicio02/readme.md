@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/108779870/180332674-51a5480c-f6b1-4ed3-9c58-7b79f8b094e9.png)
 ![image](https://user-images.githubusercontent.com/108779870/180332682-adf19fe5-f0d7-440b-976c-c02971313f1d.png)
 
-# Para uma possível correlação entre quantidade de problemas e quantidade de serviços, verificamos que não temos correlação no gráfico de dispersão:
+### Para uma possível correlação entre quantidade de problemas e quantidade de serviços, verificamos que não temos correlação no gráfico de dispersão:
 
 ![image](https://user-images.githubusercontent.com/108779870/180332707-1c1ee648-e2d8-457f-a2f7-59886abcabfe.png)
 
