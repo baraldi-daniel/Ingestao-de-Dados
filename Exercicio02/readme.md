@@ -16,7 +16,7 @@
 
 ### Tabela Fato 1 e suas dimensões:
 
-![image](https://user-images.githubusercontent.com/108779870/180108189-0cfd44ff-6f24-4414-88e8-55323697742e.png)
+![image](https://user-images.githubusercontent.com/108779870/180332399-2783d94e-c8ef-4eb7-b81b-ac9bb550209c.png)
 ![image](https://user-images.githubusercontent.com/108779870/180108270-f45e96df-eafb-468d-aa2e-4b0c3140946a.png)
 
 ### Tabela Fato 2 e suas dimensões:
