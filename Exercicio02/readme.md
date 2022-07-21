@@ -21,7 +21,7 @@
 
 ### Tabela Fato 2 e suas dimensões:
 
-![image](https://user-images.githubusercontent.com/108779870/180108354-9543fd42-9999-45c8-9bd9-be9c689b5622.png)
+![image](https://user-images.githubusercontent.com/108779870/180332603-ec9f1a30-b2c7-4c46-ad76-817f7ff899e3.png)
 
 ## Star Schema no Tableau:
 
