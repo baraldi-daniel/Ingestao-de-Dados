@@ -1,0 +1,7 @@
+1) spark-submit --deploy-mode cluster s3://exercicio04/script/spark_upload_csv_trusted.py --data_source s3://exercicio04/raw/CSV/ --output_uri s3://exercicio04/output/trusted/csv
+2) hive-script --run-hive-script --args -f s3://exercicio04/script/hive_create_and_insert_trusted_csv.sql
+3) hive-script --run-hive-script --args -f s3://exercicio04/script/hive_create_modelagem_fato1_and_listcnpjs.sql
+4) spark-submit --deploy-mode cluster s3://exercicio04/script/spark_upload_api_raw.py --data_source s3://exercicio04/output/cnpjs --output_uri s3://exercicio04/raw/api
+5) hive-script --run-hive-script --args -f s3://exercicio04/script/hive_create_and_insert_raw_api.sql
+6) hive-script --run-hive-script --args -f s3://exercicio04/script/hive_create_and_insert_trusted_api.sql
+7) hive-script --run-hive-script --args -f s3://exercicio04/script/hive_create_modelagem_fato2.sql
