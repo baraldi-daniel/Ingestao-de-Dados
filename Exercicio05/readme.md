@@ -101,3 +101,5 @@
 ![image](https://user-images.githubusercontent.com/108779870/184046165-3cf26135-b32f-4606-bea1-d7f6f08e65bb.png)
 ![image](https://user-images.githubusercontent.com/108779870/184046179-fdb1feb7-1285-41dd-acb0-31aff22d1781.png)
 ![image](https://user-images.githubusercontent.com/108779870/184046197-d7dd339a-93ca-4a21-b779-56d34e800519.png)
+
+Referência para package: https://www.geeksforgeeks.org/how-to-install-python-packages-for-aws-lambda-layers/
