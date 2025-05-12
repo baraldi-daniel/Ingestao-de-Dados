@@ -1,7 +1,7 @@
 # Ingestao-de-Dados
-## Exercício 1:
+## Projeto 1:
 
-### O Exercício tem o objetivo de usar ferramentas de ETL, um banco de dados relacional e uma ferramenta de visualização para usar e tratar dados de duas bases (um CSV e a resposta de uma chamada de API).
+### O Projeto tem o objetivo de usar ferramentas de ETL, um banco de dados relacional e uma ferramenta de visualização para usar e tratar dados de duas bases (um CSV e a resposta de uma chamada de API).
 ### As ferramentas usada para esse caso foram, respectivamente, Talend (ETL), MySQL (Base de Dados relacional) e Grafana (Dashboard).
 
 ### Com isso, os Jobs utilizados no TALEND (arquivo "talendETL.jar" e pasta "talendETLProjeto.zip" têm todas as configurações e tudo o que foi usado na ferramenta) foram os seguintes:
